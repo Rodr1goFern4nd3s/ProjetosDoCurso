@@ -1,2 +1,2 @@
 # ProjetosDoCurso
-Projetos simples para aperfeiçoamentos das tecnologias
+Projetos simples para aperfeiçoamento das tecnologias
