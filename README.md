@@ -1,2 +1,2 @@
 # ProjetosDoCurso
-Site simples da modelo Anna Bella
+Projetos simples para aperfeiçoamentos das tecnologias
